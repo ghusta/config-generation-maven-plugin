@@ -1,5 +1,7 @@
 **config-generation-maven-plugin**
 
+[![Build Status](https://travis-ci.org/ghusta/config-generation-maven-plugin.svg?branch=master)](https://travis-ci.org/ghusta/config-generation-maven-plugin)
+
 Generates config, properties, scripts and any other text resources from templates
 with ${placeholder} substitution to target multiple environments.
 
